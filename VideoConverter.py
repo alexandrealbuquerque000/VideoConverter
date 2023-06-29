@@ -2,8 +2,8 @@ import os
 from pathlib import Path
 import moviepy.editor as moviepy
 
-path = r"C:\Users\Alexandre\Videos"
-destine=r"G:\Filmes"
+path = r""
+destine=r""
 int_ext='.mkv'
 out_ext='.mp4'
 
